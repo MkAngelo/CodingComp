@@ -1,8 +1,10 @@
 Template.*
 template.*
+Templetes/*
 FacebookHC/*
 .vscode/*
 *.zip
 *.txt
 *.in
 *.out
+*.jar
